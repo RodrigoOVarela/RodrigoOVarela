@@ -25,10 +25,10 @@ Cloud:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 Tools & Others:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)  
-![MSMQ](https://img.shields.io/badge/-MSMQ-0078D7?style=flat-square&logo=windows&logoColor=white)  
-![MassTransit](https://img.shields.io/badge/-MassTransit-2563EB?style=flat-square)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MSMQ](https://img.shields.io/badge/-MSMQ-0078D7?style=flat-square&logo=windows&logoColor=white)
+![MassTransit](https://img.shields.io/badge/-MassTransit-2563EB?style=flat-square)
 ![NServiceBus](https://img.shields.io/badge/-NServiceBus-0082C9?style=flat-square)
